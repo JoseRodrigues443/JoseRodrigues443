@@ -40,11 +40,3 @@ You can see my blog posts at <https://joserodrigues443.github.io/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserodrigues443&" alt="joserodrigues443" /></p>
 
-
-## By the way my favorite music to play in the violin is
-
-From a composer called [Oskar Rieding](https://en.wikipedia.org/wiki/Oskar_Rieding) called *Concertino in A Minor for Violin and Piano in Hungarian style Op. 21* 
-
-<div>
-    <iframe src="https://open.spotify.com/embed/track/0q2HNhQwylx3QAD2Je5OxN?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
