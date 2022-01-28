@@ -40,3 +40,5 @@ You can see my blog posts at <https://joserodrigues443.github.io/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserodrigues443&" alt="joserodrigues443" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
