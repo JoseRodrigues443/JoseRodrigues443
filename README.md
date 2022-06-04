@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joserodrigues443" alt="joserodrigues443" /></a> </p>
 
-- 🔭 I’m currently working on [Farfetch](https://www.farfetch.com/pt/)
+- 🔭 I’m currently working at [Axonius](https://www.axonius.com/)
 
-- 👯 I’m a collaborator on [Diem](https://github.com/diem/diem)
+- 👯 I was a node operator at [Diem](https://github.com/diem/diem)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoseRodrigues443](https://github.com/JoseRodrigues443)
 
