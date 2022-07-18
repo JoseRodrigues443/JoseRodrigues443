@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Rodrigues</h1>
-<h3 align="center">A R&D developer from Farfetch</h3>
+<h3 align="center">A Senior Software developer at Axonius</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joserodrigues443&label=Profile%20views&color=0e75b6&style=flat" alt="joserodrigues443" /> </p>
 
