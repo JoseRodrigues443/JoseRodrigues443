@@ -20,7 +20,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-You can see my blog posts at <https://joserodrigues443.github.io/>
+You can see my blog posts at <https://joserodrigues443.github.io/#posts>
 
 <!-- BLOG-POST-LIST:END -->
 
