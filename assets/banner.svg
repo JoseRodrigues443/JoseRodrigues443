@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+    <linearGradient id="pill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.18" />
+    </linearGradient>
+    <radialGradient id="glow1" cx="85%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#090D16" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glow2" cx="15%" cy="85%" r="40%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#090D16" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.6" stroke-opacity="0.35" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="18" fill="url(#bg)" />
+  <rect width="1200" height="320" rx="18" fill="url(#grid)" />
+  <rect width="1200" height="320" rx="18" fill="url(#glow1)" />
+  <rect width="1200" height="320" rx="18" fill="url(#glow2)" />
+
+  <!-- Decorative AI Node Graph on Right -->
+  <g stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1.5" fill="none">
+    <line x1="920" y1="70" x2="1040" y2="110" />
+    <line x1="1040" y1="110" x2="1120" y2="65" />
+    <line x1="1040" y1="110" x2="1080" y2="210" />
+    <line x1="920" y1="70" x2="960" y2="185" />
+    <line x1="960" y1="185" x2="1080" y2="210" />
+    <line x1="960" y1="185" x2="880" y2="255" />
+    <line x1="1080" y1="210" x2="1145" y2="260" />
+  </g>
+  <g fill="#38BDF8" fill-opacity="0.6">
+    <circle cx="920" cy="70" r="4.5" />
+    <circle cx="1040" cy="110" r="6.5" fill="#818CF8" />
+    <circle cx="1120" cy="65" r="4" />
+    <circle cx="960" cy="185" r="5.5" />
+    <circle cx="1080" cy="210" r="6" fill="#C084FC" />
+    <circle cx="880" cy="255" r="4" />
+    <circle cx="1145" cy="260" r="4.5" />
+  </g>
+
+  <!-- Top Pill Badge -->
+  <rect x="64" y="42" width="415" height="32" rx="16" fill="url(#pill)" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1" />
+  <circle cx="84" cy="58" r="5" fill="#38BDF8" />
+  <text x="100" y="63" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0" letter-spacing="0.8">
+    PORTO, PORTUGAL  ·  100% REMOTE  ·  AI &amp; DISTRIBUTED SYSTEMS
+  </text>
+
+  <!-- Main Name -->
+  <text x="64" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">
+    Miguel Rodrigues
+  </text>
+
+  <!-- Subtitle with Gradient -->
+  <text x="64" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="url(#accent)">
+    Director of AI Engineering  ·  LLM Platforms  ·  Agent Systems
+  </text>
+
+  <!-- Description Line -->
+  <text x="64" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400" fill="#94A3B8">
+    Leading 3 engineering teams (~25 engineers) &amp; 3 production AI platforms. Former CTO &amp; Hub Builder (0 → 32).
+  </text>
+
+  <!-- Bottom Highlights Bar -->
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" font-weight="600" fill="#CBD5E1">
+    <rect x="64" y="250" width="215" height="34" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+    <text x="80" y="272">🤖 LangGraph · Hybrid RAG · MCP</text>
+
+    <rect x="291" y="250" width="245" height="34" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+    <text x="307" y="272">⚡ Go · Python · TypeScript · .NET</text>
+
+    <rect x="548" y="250" width="270" height="34" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+    <text x="564" y="272">📷 Photography · 🤿 Scuba · 🎻 Violin</text>
+  </g>
+
+  <!-- Subtle Border -->
+  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#334155" stroke-opacity="0.6" stroke-width="2" />
+</svg>
